@@ -1,8 +1,10 @@
-JPEXS Free Flash Decompiler 
+JPEXS - An Open-Source Adobe Flash Decompiler 
 ================
-
-source code of opensource SWF decompiler
 
 Homepage: http://www.free-decompiler.com/flash/
 
-You can download ZIP / EXE releases on homepage.
+License: GNU GPL Version 3
+
+This repository is a fork of the original repository
+athttps://github.com/jindrapetrik/jpexs-decompiler
+with a special focus on Linux compatibility.
